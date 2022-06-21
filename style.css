@@ -1,0 +1,46 @@
+div{
+width: 300px;
+height: 250px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: red
+}
+a:active{
+
+    color: aqua;
+}
+a:visited{
+color: yellowgreen;
+}
+#car{
+
+margin: auto;
+padding-left: 25%;
+font-weight: 1000;
+font-style: italic;
+border: 2px dotted black;
+border-radius: 15px;
+background-image: url(car.jpg) ;
+background-repeat: no-repeat;
+}
+.ul{
+    font-style: italic;
+border: 2px dashed black;
+border-radius: 15px;
+width: 250px;
+height: 200px;
+border-radius: 15px;
+padding-left: 10%;
+padding-top: 6%;
+font-weight: bolder;
+list-style-image: url(download.png);
+
+}
+
+#ul1{
+nav-left: current;
+
+}
